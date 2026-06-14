@@ -1,0 +1,6 @@
+
+### requirements.txt
+
+```text
+No external libraries required.
+Python 3.x
