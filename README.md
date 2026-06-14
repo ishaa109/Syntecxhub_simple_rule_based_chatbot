@@ -30,4 +30,4 @@ The chatbot supports:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/simple-rule-based-chatbot.git
+git clone https://github.com/ishaa109/Syntecxhub_simple_rule_based_chatbot.git
